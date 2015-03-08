@@ -9,7 +9,7 @@ import (
 )
 
 var (
-	httpAddr  = "0.0.0.0:58080"
+	httpAddr  = "0.0.0.0:8080"
 	redisAddr = flag.String("redis-address", "localhost:6379", "Adress to the Redis Serv")
 	c, err    = redis.Dial("tcp", *redisAddr)
 )
