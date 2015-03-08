@@ -1,4 +1,4 @@
-# docker with golang sample
+# docker with golang
 
 * simple sample scripts for myself
 
