@@ -39,4 +39,4 @@ $ fig up -d
 ## Usage
 
 * Using the browser, please go to this URL
-    * http://<docker host>:8080/
+    * http://&gt;docker host&lt;:8080/
